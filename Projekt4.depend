@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1547968402 source:c:\users\kacper\desktop\projekt4\auxfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdbool.h>
+	"AuxFunctions.h"
+
+1547968404 c:\users\kacper\desktop\projekt4\auxfunctions.h
+
+1547968404 source:c:\users\kacper\desktop\projekt4\bmp.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"BMP.h"
+	"AuxFunctions.h"
+
+1547968404 c:\users\kacper\desktop\projekt4\bmp.h
+
+1547968404 source:c:\users\kacper\desktop\projekt4\projekt4.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"BMP.h"
+	"AuxFunctions.h"
+
